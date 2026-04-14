@@ -122,22 +122,22 @@ app.listen(PORT, () => {
 
 const series = [
   {
-    id: "1",
+    id: 1,
     titulo: "Stranger Things",
     genero: "Ficção"
   },
   {
-    id: "2",
+    id: 2,
     titulo: "Reacher",
     genero: "Ação"
   },
   {
-    id: "3",
+    id: 3,
     titulo: "Lock & Key",
     genero: "Fantasia"
   },
   {
-    id: "4",
+    id: 4,
     titulo: "Black Mirror",
     genero: "Ficção"
   }
